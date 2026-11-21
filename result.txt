@@ -1,0 +1,162 @@
+>> Evaluate
+CD_base -- alpha Ma beta:
+Factor of Influence: 0.56665688 -- Significant Influence
+Factor of Influence: 0.03340147
+Factor of Influence: 0.04233503
+
+CY_base -- alpha Ma beta:
+Factor of Influence: 0.00000000
+Factor of Influence: 0.00000000
+Factor of Influence: 268846106.80000001 -- Significant Influence
+
+CL_base -- alpha Ma beta:
+Factor of Influence: 0.47974634 -- Significant Influence
+Factor of Influence: 0.01151568
+Factor of Influence: 0.00318456
+
+Cl_base -- alpha Ma beta:
+Factor of Influence: 0.00000000
+Factor of Influence: 0.00000000
+Factor of Influence: 21883899.30800000 -- Significant Influence
+
+Cm_base -- alpha Ma beta:
+Factor of Influence: 0.50380841 -- Significant Influence
+Factor of Influence: 0.00578513
+Factor of Influence: 0.00977883
+
+Cn_base -- alpha Ma beta:
+Factor of Influence: 0.00000000
+Factor of Influence: 0.00000000
+Factor of Influence: 138425103.38000000 -- Significant Influence
+
+CD_de -- alpha Ma de
+Factor of Influence: 1.64449363 -- Significant Influence
+Factor of Influence: 0.13458677 -- Significant Influence
+Factor of Influence: 0.32445762 -- Significant Influence
+
+CY_de -- alpha Ma de
+Factor of Influence: 0.00000000
+Factor of Influence: 0.00000000
+Factor of Influence: 0.00000000
+
+CL_de -- alpha Ma de
+Factor of Influence: 0.29515047 -- Significant Influence
+Factor of Influence: 0.03300655
+Factor of Influence: 0.32445762 -- Significant Influence
+
+Cl_de -- alpha Ma de
+Factor of Influence: 0.00000000
+Factor of Influence: 0.00000000
+Factor of Influence: 0.00000000
+
+Cm_de -- alpha Ma de
+Factor of Influence: 0.07302215 -- Significant Influence
+Factor of Influence: 0.00175154
+Factor of Influence: 0.32445762 -- Significant Influence
+
+Cn_de -- alpha Ma de
+Factor of Influence: 0.00000000
+Factor of Influence: 0.00000000
+Factor of Influence: 0.00000000
+
+CD_dr -- alpha Ma dr
+Factor of Influence: 2.66711847 -- Significant Influence
+Factor of Influence: 0.28137560 -- Significant Influence
+Factor of Influence: 166.70371194 -- Significant Influence
+
+CY_dr -- alpha Ma dr
+Factor of Influence: 0.07791201 -- Significant Influence
+Factor of Influence: 0.00534017
+Factor of Influence: 166.70371194 -- Significant Influence
+
+CL_dr -- alpha Ma dr
+Factor of Influence: 1.19448566 -- Significant Influence
+Factor of Influence: 0.11699027 -- Significant Influence
+Factor of Influence: 166.70371194 -- Significant Influence
+
+Cl_dr -- alpha Ma dr
+Factor of Influence: 0.00436806
+Factor of Influence: 0.05325606 -- Significant Influence
+Factor of Influence: 166.70371194 -- Significant Influence
+
+Cm_dr -- alpha Ma dr
+Factor of Influence: 1.21021067 -- Significant Influence
+Factor of Influence: 0.11674295 -- Significant Influence
+Factor of Influence: 166.70371194 -- Significant Influence
+
+Cn_dr -- alpha Ma dr
+Factor of Influence: 0.08806505 -- Significant Influence
+Factor of Influence: 0.00556696
+Factor of Influence: 166.70371194 -- Significant Influence
+
+CD_da -- alpha Ma da
+Factor of Influence: 2.31442495 -- Significant Influence
+Factor of Influence: 0.21424738 -- Significant Influence
+Factor of Influence: 53.32859301 -- Significant Influence
+
+CY_da -- alpha Ma da
+Factor of Influence: 6.59086112 -- Significant Influence
+Factor of Influence: 0.56577779 -- Significant Influence
+Factor of Influence: 53.32859301 -- Significant Influence
+
+CL_da -- alpha Ma da
+Factor of Influence: 4.27913243 -- Significant Influence
+Factor of Influence: 0.53814659 -- Significant Influence
+Factor of Influence: 53.32859301 -- Significant Influence
+
+Cl_da -- alpha Ma da
+Factor of Influence: 0.00475685
+Factor of Influence: 0.00002592
+Factor of Influence: 53.32859301 -- Significant Influence
+
+Cm_da -- alpha Ma da
+Factor of Influence: 0.45804291 -- Significant Influence
+Factor of Influence: 0.02531581
+Factor of Influence: 53.32859301 -- Significant Influence
+
+Cn_da -- alpha Ma da
+Factor of Influence: 1.44218809 -- Significant Influence
+Factor of Influence: 0.11993077 -- Significant Influence
+Factor of Influence: 53.32859301 -- Significant Influence
+
+Cmq -- alpha Ma alt
+Factor of Influence: 0.00000000
+Factor of Influence: 0.00079624
+Factor of Influence: 0.00000000
+
+CLAlphadot -- alpha Ma alt
+Factor of Influence: 0.00536000
+Factor of Influence: 0.00006707
+Factor of Influence: 0.00000000
+
+CmAlphadot -- alpha Ma alt
+Factor of Influence: 0.00535504
+Factor of Influence: 0.00006701
+Factor of Influence: 0.00000000
+
+Clp -- alpha Ma alt
+Factor of Influence: 0.03761894
+Factor of Influence: 0.00079169
+Factor of Influence: 0.00000096
+
+CYp -- alpha Ma alt
+Factor of Influence: 0.51183575 -- Significant Influence
+Factor of Influence: 0.00220686
+Factor of Influence: 0.00046089
+
+Cnp -- alpha Ma alt
+Factor of Influence: 0.47873274 -- Significant Influence
+Factor of Influence: 0.00502768
+Factor of Influence: 0.00107536
+
+Cnr -- alpha Ma alt
+Factor of Influence: 0.03642373
+Factor of Influence: 0.00041577
+Factor of Influence: 0.00020397
+
+Clr -- alpha Ma alt
+Factor of Influence: 0.45131382 -- Significant Influence
+Factor of Influence: 0.00366221
+Factor of Influence: 0.00000000
+
+>> 
